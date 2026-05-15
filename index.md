@@ -17,6 +17,7 @@ kindness routine.
 
 - [Privacy Policy](./privacy/)
 - [Terms of Service](./terms/)
+- [Delete your account](./delete-account/)
 
 ## Contact
 
